@@ -1,0 +1,35 @@
+Portfolio Website Implementation Plan
+Build a vibrant, professional light-theme portfolio website for Mukesh, a B.Tech Textile Technology student at KCT.
+
+User Review Required
+IMPORTANT
+
+The Internships & Experience section will feature interactive cards. Each card will show a picture initially. Clicking it will reveal details, a certificate link (placeholder), and a "Visit Website" button.
+I will use the existing WhatsApp Image 2026-02-01 at 7.31.30 PM (1).jpeg as the professional picture for the Home section.
+"Projects" and "Resume" will have "Coming Soon / Will Upload" placeholders as requested.
+Proposed Changes
+Core Structure and Styling
+[MODIFY] 
+index.html
+Update sections: Home, About Me, Skills, Projects, Interns, Resume, Contact.
+Add structured data for Internship details.
+Add a modal container for internship details.
+[MODIFY] 
+style.css
+Implement a vibrant light theme using a palette of soft whites, vibrant blues, and indigo.
+Use glassmorphism for the navigation bar.
+Design modern card layouts with hover effects.
+Add micro-animations for buttons and section reveals.
+[MODIFY] 
+main.js
+Enhance smooth scroll and section highlighting.
+Implement the interactive modal/expansion logic for the Internship section.
+Add light-weight animations using Intersection Observer.
+Verification Plan
+Automated Tests
+None applicable for this static site beyond basic build/lint if desired.
+Manual Verification
+Responsiveness: Check mobile, tablet, and desktop views.
+Interactivity: Verify that clicking internship cards opens the correct details.
+Navigation: Test all anchor links in the nav menu.
+Theme: Ensure the "vibrant professional light theme" matches the user's aesthetic expectation.
