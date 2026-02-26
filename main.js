@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Scratch Project",
             img: "assets/assignments/scratch-cover.webp",
             certificate: "https://1drv.ms/w/c/8a413fda99a9510c/IQAF6OaGvfx1Q4qaZC2L0HiuAWW0cEHO0XQHrU9wfmSNl3w?e=rSFFsE",
-            website: "https://example.com"
+            website: "Scratch Simulation Project.pdf"
 
         },
         {
@@ -148,3 +148,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
