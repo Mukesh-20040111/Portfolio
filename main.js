@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             title: "Laser Cutting",
             img: "assets/assignments/a7.jpg",
-            certificate: "",
+            certificate: "https://drive.google.com/file/d/157yuuZdsX7HCCdrJ1VlNbnJbopn0Qr3b/view?usp=sharing",
         },
         {
             title: "3D printing",
@@ -168,6 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
 
 
