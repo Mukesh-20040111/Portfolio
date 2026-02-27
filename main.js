@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             title: "FIH project",
             img: "assets/assignments/a6.jpg",
-            certificate: "",
+            certificate: "FIH -final pptx.pdf",
         },
         {
             title: "Laser Cutting",
@@ -168,6 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
 
 
