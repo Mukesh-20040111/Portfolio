@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "3D printing",
             img: "assets/assignments/a8.jpg",
             certificate: "",
-        }
+        },
     ];
 
     /* =====================================================
@@ -168,5 +168,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
 
