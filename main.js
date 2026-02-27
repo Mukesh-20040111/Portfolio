@@ -28,6 +28,26 @@ document.addEventListener("DOMContentLoaded", () => {
             img: "assets/assignments/a4.jpg",
             certificate: "https://1drv.ms/w/c/8a413fda99a9510c/IQAvCKR7wyMYRppWXyY4B0UVARgnWtyO3A_feS2klgrILLg?e=xT5Ygx",
             website: "https://a360.co/3OtRbAk"
+        },
+        {
+            title: "Design Thinking project",
+            img: "assets/assignments/a5.jpg",
+            certificate: "https://drive.google.com/file/d/1n22nWNnrGrIw-As0RK1RB4Pgc69RQZi9/view?usp=drive_link",
+        },
+        {
+            title: "FIH project",
+            img: "assets/assignments/a6.jpg",
+            certificate: "",
+        },
+        {
+            title: "Laser Cutting",
+            img: "assets/assignments/a7.jpg",
+            certificate: "",
+        },
+        {
+            title: "3D printing",
+            img: "assets/assignments/a8.jpg",
+            certificate: "",
         }
     ];
 
@@ -148,4 +168,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
