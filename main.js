@@ -8,26 +8,21 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Scratch Project",
             img: "assets/assignments/scratch-cover.webp",
             certificate: "https://1drv.ms/w/c/8a413fda99a9510c/IQAF6OaGvfx1Q4qaZC2L0HiuAWW0cEHO0XQHrU9wfmSNl3w?e=rSFFsE",
-            website: "Scratch Simulation Project.pdf"
-
         },
         {
             title: "Tinkercad Project",
             img: "assets/assignments/a2.jpg",
             certificate: "https://1drv.ms/w/c/8a413fda99a9510c/IQCNfSR6wMq3RLEfy2RZ_jCjAeI5LNn-1GB9BhNxh41rffs?e=vwPkAp",
-            website: "https://www.tinkercad.com/things/4kX4P3dDs24-ingenious-tumelo-fulffy?sharecode=QwDoKVEW2V703-GFycFDUtzWz5XJEOw8fIx7K42ExmU"
         },
         {
             title: "MIT App Inventor Project",
             img: "assets/assignments/a3.jpg",
             certificate: "https://1drv.ms/w/c/EAA27C1328AE0986/IQAKuZiqA0RhR4bDcCElW7e3AZGfN_bYi_4mVGLOKNNvEXA?e=rdr2Vz",
-            website: "C:\Users\MUKESH\OneDrive\Pictures\Documents\WhatsApp Video 2026-02-09 at 11.55.26 AM.mp4"
         },
         {
             title: "Fusion360 autocad 2D & 3D water bottle project",
             img: "assets/assignments/a4.jpg",
             certificate: "https://1drv.ms/w/c/8a413fda99a9510c/IQAvCKR7wyMYRppWXyY4B0UVARgnWtyO3A_feS2klgrILLg?e=xT5Ygx",
-            website: "https://a360.co/3OtRbAk"
         },
         {
             title: "Design Thinking project",
@@ -68,9 +63,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 modalGrid.innerHTML += `
     <div class="modal-card" style="animation-delay:${index * 0.08}s">
         <h4>${item.title}</h4>
-
-        <a href="${item.website}" target="_blank" class="btn btn-primary">
-            Working Video
         </a>
 
         <a href="${item.certificate}" target="_blank" class="btn btn-outline">
@@ -168,6 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
 
 
