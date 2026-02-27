@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             title: "FIH project",
             img: "assets/assignments/a6.jpg",
-            certificate: "FIH -final pptx.pdf",
+            certificate: "https://drive.google.com/file/d/14Z_p_V0o6bHBSaMunhi5ih8r6h94bPbp/view?usp=sharing",
         },
         {
             title: "Laser Cutting",
@@ -168,6 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
 
 
